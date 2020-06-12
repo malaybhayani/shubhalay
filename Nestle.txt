@@ -8,3 +8,5 @@ Deal Amount: 1.7 Million USD
 Deal Done: 2017
 
 Development centre: Bangalore
+
+Updating Project Details soon
