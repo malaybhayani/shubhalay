@@ -10,3 +10,5 @@ Deal Done: 2017
 Development centre: Bangalore
 
 Updating Project Details soon
+
+Project Type: Agile
